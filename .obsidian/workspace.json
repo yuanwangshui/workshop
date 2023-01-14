@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0ca8570b72fc148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/算法题/两数之和.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/面经/JAVA.md",
+                "file": "工作/算法题/两数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/面经/JAVA.md",
+                "file": "工作/算法题/两数之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/面经/JAVA.md"
+                "file": "工作/算法题/两数之和.md"
               }
             }
           }
@@ -159,10 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "353e78484cec0659",
+  "active": "f0ca8570b72fc148",
   "lastOpenFiles": [
-    "[.md",
     "工作/面经/JAVA.md",
+    "[.md",
     "学习/配置/sourcetree github 代理.md",
     "未命名.md"
   ]
