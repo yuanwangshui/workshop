@@ -54,3 +54,48 @@
 JDK1.7 中，由于多线程对HashMap进行扩容，调用了HashMap#transfer()，具体原因：某个线程执行过程中，被挂起，其他线程已经完成数据迁移，等CPU资源释放后被挂起的线程重新执行之前的逻辑，数据已经被改变，造成死循环、数据丢失。
 JDK1.8 中，由于多线程对HashMap进行put操作，调用了HashMap#putVal()，具体原因：假设两个线程A、B都在进行put操作，并且hash函数计算出的插入下标是相同的，当线程A执行完第六行代码后由于时间片耗尽导致被挂起，而线程B得到时间片后在该下标处插入了元素，完成了正常的插入，然后线程A获得时间片，由于之前已经进行了hash碰撞的判断，所有此时不会再进行判断，而是直接进行插入，这就导致了线程B插入的数据被线程A覆盖了，从而线程不安全。
 
+### 问题7：[[final、finally、finalize的区别？]](https://blog.csdn.net/qq_49354230/article/details/125249879)23.1.17
+
+### 问题8：[[抽象类和接口的区别]](https://blog.csdn.net/m0_51358164/article/details/125153230)
+
+### 问题9：[[Error和Exception的区别]](https://blog.csdn.net/weixin_52188374/article/details/117521327)
+
+### 问题10：[[讲讲乐观锁和悲观锁]](https://www.bilibili.com/video/BV1B3411a7jz/?spm_id_from=333.337.search-card.all.click&vd_source=901f7f5955487658af7c988c17f4c3ff)23.1.18
+
+### 问题11：[[volatile的作用]](https://www.bilibili.com/video/BV1x3411B7GE/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=901f7f5955487658af7c988c17f4c3ff)
+
+### 问题12：[[Hashmap为什么不用平衡树]]
+
+### 问题13：[[能说一下HashMap的数据结构吗]](https://www.shuzhiduo.com/A/MyJx4NEAJn/)(https://www.bilibili.com/video/BV1Pp4y1b79K?p=5&vd_source=901f7f5955487658af7c988c17f4c3ff)
+
+### 问题14：[[ReetrantLock和synchronized的区别]](https://blog.csdn.net/wei_zhi_zlq/article/details/128535996)2023.1.19
+
+### 问题15：[[如何才能得到一个线程安全的HashMap？]]
+
+### 问题16：[[GC的垃圾回收算法有哪些]](2023.1.23)
+
+### 问题17：[[单例模式]]
+
+### 问题18：[[懒汉和饿汉式的区别]]
+
+### 问题19：[[Object 类有哪些方法]](2023.1.24)
+
+### 问题20：[[String 类的常用方法]]
+
+### 问题21：[[Java中private关键字的作用]]
+
+### 问题22：[[线程的生命周期]](2023.1.25)
+
+### 问题23：[[哪些对象可以作为gc root]]
+
+### 问题24：[[引用计数器的缺点]]
+
+### 问题25：[[sleep和wait的区别]]
+
+### 问题26：[[解释下什么是面向对象]](2023.1.26)
+
+### 问题27：[[面向对象和面向过程得到区别]]
+
+### 问题28：[[面向对象的三大特性？解释下]]
+
+

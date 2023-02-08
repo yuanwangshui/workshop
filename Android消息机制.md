@@ -1,0 +1,8 @@
+(https://blog.csdn.net/qjyws/article/details/122812729)
+Android消息机制其实就是Handler()的运行机制，我们开发过程中常常用Handler()和其他任务进行交互，如开启一个子线程完成从一个数据库中拿出数据，而后通知主线程进行UI更新，这时候便需要用到Handler()将子线程的消息交给主线程进行处理；Handler()其实便是Android消息机制与上层的接口，我们要了解Android消息机制，便是了解Handler()的底层实现
+
+Handler()的底层机制
+
+MessageQueue消息队列，存储一组消息，然后以队列的形式对外提供插入和删除的操作，说白了就是存储待处理的消息，但是MessageQueue的底层实现并不是队列，而是单链表的形式
+Looper，扮演操作员的角色，MessageQueue只是一个存储待处理消息的数据结构，Looper以无线循环的形式去查找是否有新消息要处理，有就处理，没有就等待
+ThreadLocal,ThreadLocal并不是线程，而是一个可以在多个线程间互不干扰地提供数据的类，同时ThreadLocal可以轻松地获取到每个线程的Looper；同时要注意的是，默认子线程是没有Looper的，如果要在子线程中使用Handler，就必须要为子线程创建Looper，主线程（ActivityThread）->UI线程在被初始化时会初始化Looper，也就是默认可以在主线程使用Handler的原因

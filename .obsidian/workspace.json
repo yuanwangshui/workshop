@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "工作/面经/Android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0ee3b08cba38dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "工作/面经/JAVA.md",
                 "mode": "source",
                 "source": false
@@ -20,19 +32,103 @@
             }
           },
           {
-            "id": "d13b3b1612f6b9d9",
+            "id": "c05dbdade87b341c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/算法题/无重复字符的最大子串.md",
+                "file": "工作/面经/JAVA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e7d24dbf05f308c",
+            "id": "216f4f02840ecc90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e8dde8307d0c63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91d79e14601abb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2257b9825c536cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9279c138edb458f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3edc5a57c98eadef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8834673ffaf5cc6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bff715a24b694e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +138,149 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62094ced74cc77f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object 类有哪些方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e7d24dbf05f308c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0c38828d0396e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EventBus源码解析，遵循什么设计模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa3122969d9a0393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android中主要用到的几种设计模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c90b6ee1d0705eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activity遵循什么设计模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "806a63083bc496d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKHttp原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cade67438bbde028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/Android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ea54f2950bc9041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/算法题/两数相加.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9472f290b291a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/面经/JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69fd9d3dbc220732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "事件分发机制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b182e686b3474b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何才能得到一个线程安全的HashMap？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fee9e03054b13f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReetrantLock和synchronized的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -110,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/算法题/无重复字符的最大子串.md",
+                "file": "工作/面经/Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +363,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/算法题/无重复字符的最大子串.md",
+                "file": "工作/面经/Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/算法题/无重复字符的最大子串.md"
+                "file": "工作/面经/Android.md"
               }
             }
           }
@@ -158,8 +394,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,14 +406,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d13b3b1612f6b9d9",
+  "active": "bff715a24b694e0c",
   "lastOpenFiles": [
     "工作/面经/JAVA.md",
-    "学习/配置/sourcetree github 代理.md",
-    "工作/算法题/两数之和.md",
-    "工作/面经/Android.md",
-    "工作/算法题/两数相加.md",
-    "[.md",
-    "未命名.md"
+    "面向对象的三大特性？解释下.md",
+    "面向对象和面向过程得到区别.md",
+    "解释下什么是面向对象.md",
+    "哪些对象可以作为gc root.md",
+    "sleep和wait的区别.md",
+    "引用计数器的缺点.md",
+    "线程的生命周期.md",
+    "Java中private关键字的作用.md",
+    "String 类的常用方法.md"
   ]
 }

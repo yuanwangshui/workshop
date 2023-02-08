@@ -44,3 +44,23 @@ ListView是在主方法中ListView对象的setOnItemClickListener方法；Recycl
 四大组件分别为activity、service、content provider、broadcast receiver；
 六大布局分别为LinearLayout、TableLayout、FrameLayout、RelativeLayout、GridLayout、AbsoluteLayout、ConstraintLayout；
 五大存储分别为SharedPreferences、文件存储、SQLite数据库方式、内容提供器（Content provider）和网络。
+
+### [[事件分发机制]](2023.1.19)
+
+### [[Android消息机制]](2023.1.20)
+
+### [[OKHttp原理]]
+
+### [[Handler内存泄露的原因是什么]]
+
+### [[Activity遵循什么设计模式]](2023.1.21)
+
+### [[Android中主要用到的几种设计模式]]
+
+### [[EventBus源码解析，遵循什么设计模式]]
+
+### [[强引用 弱引用 软引用 虚引用的区别和使用场景]](2023.1.22)
+
+### [[Android渲染整体架构]]
+
+### [[使用线程池的好处]]
